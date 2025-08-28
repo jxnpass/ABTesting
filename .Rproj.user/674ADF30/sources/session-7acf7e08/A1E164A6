@@ -1,0 +1,27 @@
+{
+    "id": "A1E164A6",
+    "path": "~/R/ABTesting/bayes_ab_props.R",
+    "project_path": "bayes_ab_props.R",
+    "type": "r_source",
+    "hash": "2377995381",
+    "contents": "",
+    "dirty": false,
+    "created": 1750619199125.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "192,0",
+        "scrollLine": "180"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756419399,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756419399365,
+    "read_only": false,
+    "read_only_alternatives": []
+}
